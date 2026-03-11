@@ -9,7 +9,7 @@
 An in-depth analysis of the tariff policies introduced in 2025, exploring their policy
 background and assessing their economic impact to date.
 
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/Cover.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/Cover.png" alt="Alt text" width="800"/>
 
 ## Business Case
 
@@ -42,7 +42,7 @@ This analysis aims to support policy reassessment and inform potential future ac
 # Dashboards
 
 ## Background Context: Country View
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/background_country.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/background_country.png" alt="Alt text" width="800"/>
 
 **Key takeaways:**
 
@@ -55,7 +55,7 @@ Export partners;
 
 ## Background Context: Product View
 
-![Dashboard Demo](Images_Videos/Video/background_country_gif.gif)
+![Dashboard Demo](https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Videos/Overview_Product_gif.gif)
 
 **Key takeaways:**
 - "Machinery and Electrical Equipment" is
@@ -66,6 +66,8 @@ the main Product Section;
 for more than half of all imports;
 
 ## Tariff Timeline
+
+![Dashboard Demo](https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Videos/Timeline_gif.gif)
 
 **Key takeaways:**
 
@@ -78,20 +80,22 @@ Auto parts, Copper and Timber;
 
 ## Impacts: Product View
 
+![Dashboard Demo](https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Videos/Impact_Product_gif.gif)
+
 **Key takeaways:**
 - Affected sections of "Base Metal" decreased imports on 22%;
 - Affected sections of "Machinery and Electrical Eq." increased imports on 36%;
 - Affected sections of "Vehicles" decreased imports on 12%;
 - 
 ## Impacts: External View
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/external_impacts.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/external_impacts.png" alt="Alt text" width="800"/>
 
 **Key takeaways:**
 - Imports spiked in Q1 of 2025 but then decreased;
 - Imports from Canada and China decreased;
 
 ## Impacts: Internal View
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/internal_impacts.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/internal_impacts.png" alt="Alt text" width="800"/>
 
 **Key takeaways:**
 - Commercial balance gap decreased and customs duties jumped 460%;
@@ -102,7 +106,7 @@ negative to positive trend;
 - Manufacturing Employment continues todecrease while Unemployment Ratecontinues to increase;
 
 ## Estimates
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/estimates.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/estimates.png" alt="Alt text" width="800"/>
 
 **Key takeaways:**
 - Commercial Balance and Duties don't influentiate Consumer Price;
