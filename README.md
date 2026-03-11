@@ -4,12 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white)
-
-![Alt text](./images/7CWD7DyVVWV8D0v6-gEJl.png)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-blueviolet?logo=scikitlearn&logoColor=white)
 
 An in-depth analysis of the tariff policies introduced in 2025, exploring their policy
 background and assessing their economic impact to date.
+
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images/Images/7CWD7DyVVWV8D0v6-gEJl.png" alt="Alt text" width="500"/>
 
 ## Business Case
 
@@ -38,3 +38,55 @@ This analysis aims to support policy reassessment and inform potential future ac
 - Interactive dashboards covering background, effects, and forecasts.
 - Overall evaluation using a custom assessment framework.
 - Policy recommendations for potential future actions.
+
+# Dashboards
+
+## Background Context: Country View
+**Key takeaways:**
+- Negative Commercial Balance overall and
+with most countries;
+- Import and Export values are stable
+between 2022 and 2024;
+- Main Import partners are also main
+Export partners;
+## Background Context: Product View
+**Key takeaways:**
+- "Machinery and Electrical Equipment" is
+the main Product Section;
+- Main Chapters are "Motor Cars" and
+"Petroleum Oils";
+- Top 4 partners (EU, CN, MX, CA) account
+for more than half of all imports;
+## Tariff Timeline
+**Key takeaways:**
+- Main countries targeted: Canada, Mexico and China;
+- Main products targeted: Aluminum, Steel, Automobiles,
+Auto parts, Copper and Timber;
+**Out of Evaluation Scope:**
+- Copper, Timber and Trucks (happened too late to measure effects) 
+## Impacts: Product View
+**Key takeaways:**
+- Affected sections of "Base Metal" decreased imports on 22%;
+- Affected sections of "Machinery and Electrical Eq." increased imports on 36%;
+- Affected sections of "Vehicles" decreased imports on 12%;
+## Impacts: External View
+**Key takeaways:**
+- Imports spiked in Q1 of 2025 but then decreased;
+- Imports from Canada and China decreased;
+## Impacts: Internal View
+**Key takeaways:**
+- Commercial balance gap decreased and customs duties jumped 460%;
+- Import Prices decreased slightly;
+- Production Prices increased slightly;
+- Industrial Production changed from
+negative to positive trend;
+- Manufacturing Employment continues todecrease while Unemployment Ratecontinues to increase;
+## Estimates
+**Key takeaways:**
+- Commercial Balance and Duties don't influentiate Consumer Price;
+- Import Price tends to zero with less volatility;
+- Producer Price increases and stabilizes near 0;
+- Consumer Prices will keep increasing at low rate;
+
+## Machine Learning Model Process
+
