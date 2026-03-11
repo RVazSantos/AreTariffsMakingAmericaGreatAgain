@@ -1,4 +1,4 @@
-# H1 Are Tariffs Making America GreatAgain?
+# Are Tariffs Making America GreatAgain?
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
@@ -9,7 +9,7 @@
 An in-depth analysis of the tariff policies introduced in 2025, exploring their policy
 background and assessing their economic impact to date.
 
-<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images/Images/7CWD7DyVVWV8D0v6-gEJl.png" alt="Alt text" width="500"/>
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/Cover.png" alt="Alt text" width="500"/>
 
 ## Business Case
 
@@ -42,14 +42,20 @@ This analysis aims to support policy reassessment and inform potential future ac
 # Dashboards
 
 ## Background Context: Country View
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/background_country.png" alt="Alt text" width="500"/>
+
 **Key takeaways:**
+
 - Negative Commercial Balance overall and
 with most countries;
 - Import and Export values are stable
 between 2022 and 2024;
 - Main Import partners are also main
 Export partners;
+
 ## Background Context: Product View
+
+</a>
 **Key takeaways:**
 - "Machinery and Electrical Equipment" is
 the main Product Section;
@@ -57,23 +63,35 @@ the main Product Section;
 "Petroleum Oils";
 - Top 4 partners (EU, CN, MX, CA) account
 for more than half of all imports;
+
 ## Tariff Timeline
+
 **Key takeaways:**
+
 - Main countries targeted: Canada, Mexico and China;
 - Main products targeted: Aluminum, Steel, Automobiles,
 Auto parts, Copper and Timber;
+
 **Out of Evaluation Scope:**
-- Copper, Timber and Trucks (happened too late to measure effects) 
+- Copper, Timber and Trucks (happened too late to measure effects)
+
 ## Impacts: Product View
+
 **Key takeaways:**
 - Affected sections of "Base Metal" decreased imports on 22%;
 - Affected sections of "Machinery and Electrical Eq." increased imports on 36%;
 - Affected sections of "Vehicles" decreased imports on 12%;
+- 
 ## Impacts: External View
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/external_impacts.png" alt="Alt text" width="500"/>
+
 **Key takeaways:**
 - Imports spiked in Q1 of 2025 but then decreased;
 - Imports from Canada and China decreased;
+
 ## Impacts: Internal View
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/internal_impacts.png" alt="Alt text" width="500"/>
+
 **Key takeaways:**
 - Commercial balance gap decreased and customs duties jumped 460%;
 - Import Prices decreased slightly;
@@ -81,7 +99,10 @@ Auto parts, Copper and Timber;
 - Industrial Production changed from
 negative to positive trend;
 - Manufacturing Employment continues todecrease while Unemployment Ratecontinues to increase;
+
 ## Estimates
+<img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/estimates.png" alt="Alt text" width="500"/>
+
 **Key takeaways:**
 - Commercial Balance and Duties don't influentiate Consumer Price;
 - Import Price tends to zero with less volatility;
