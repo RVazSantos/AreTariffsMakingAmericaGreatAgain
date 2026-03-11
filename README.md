@@ -1,4 +1,4 @@
-# Are Tariffs Making America GreatAgain?
+# Are Tariffs Making America Great Again?
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
@@ -55,7 +55,8 @@ Export partners;
 
 ## Background Context: Product View
 
-</a>
+![Dashboard Demo](Images_Videos/Video/background_country_gif.gif)
+
 **Key takeaways:**
 - "Machinery and Electrical Equipment" is
 the main Product Section;
