@@ -80,13 +80,13 @@ Auto parts, Copper and Timber;
 
 ## Impacts: Product View
 
-![Dashboard Demo](https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Videos/Impact_Product_gif.gif)
+![Dashboard Demo](https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Videos/Impact_Products_gif.gif)
 
 **Key takeaways:**
 - Affected sections of "Base Metal" decreased imports on 22%;
 - Affected sections of "Machinery and Electrical Eq." increased imports on 36%;
 - Affected sections of "Vehicles" decreased imports on 12%;
-- 
+
 ## Impacts: External View
 <img src="https://github.com/RVazSantos/AreTariffsMakingAmericaGreatAgain/raw/main/Images_Videos/Images/external_impacts.png" alt="Alt text" width="800"/>
 
