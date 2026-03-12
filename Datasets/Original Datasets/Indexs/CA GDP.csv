@@ -1,0 +1,29 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000) 1 2"
+"Frequency: Monthly"
+"Table: 36-10-0434-01 (formerly CANSIM 379-0031)"
+"Release date: 2026-02-27"
+"Geography: Canada"
+""
+""
+
+"Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Seasonal adjustment","Seasonally adjusted at annual rates",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Prices","Chained (2017) dollars 4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"North American Industry Classification System (NAICS) 3","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024","February 2024","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024","January 2025","February 2025","March 2025","April 2025","May 2025","June 2025","July 2025","August 2025","September 2025","October 2025","November 2025","December 2025"
+,"Dollars",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"All industries  [T001] 5","2,236,190","2,243,830","2,250,566","2,250,710","2,251,250","2,248,378","2,250,903","2,251,926","2,251,153","2,253,540","2,259,470","2,256,668","2,262,764","2,276,470","2,277,491","2,285,643","2,289,038","2,294,051","2,298,623","2,301,315","2,307,523","2,317,073","2,312,337","2,317,000","2,329,696","2,325,043","2,327,664","2,324,317","2,322,659","2,323,564","2,337,520","2,336,252","2,339,856","2,332,992","2,333,414","2,339,127"
+
+
+
+
+Footnotes:
+1,"Aggregates are not always equal to the sum of their components."
+2,"At the lowest level of detail, it may not be possible to produce a homogeneous series from 1997 to the present. Only industries and certain aggregates that provide good continuity back to 1997 have data from 1997 to 2006."
+3,"With November 28, 2025 release, the monthly gross domestic product (GDP) by industry adopted the <a href="https://www.statcan.gc.ca/en/subjects/standard/naics/2022/v1/index" rel="external noopener noreferrer" target="_blank">North American Industry Classification System (NAICS) Canada 2022 version 1.0 (opens new window)</a>."
+4,"Effective November 30, 2023, the data is presented on a 2017 reference year basis."
+5,"The alphanumeric code represents an aggregation of North American Industry Classification System (NAICS) industries, whose definition is available in the <a href="https://www.statcan.gc.ca/en/statistical-programs/document/1303_D7_V4" rel="external noopener noreferrer" target="_blank">Gross domestic product (GDP) by industry, Industry code concordance (opens new window)</a>."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0434-01  Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401
